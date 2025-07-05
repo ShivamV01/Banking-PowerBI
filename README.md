@@ -35,10 +35,6 @@ This Power BI report provides a comprehensive overview of key banking performanc
 2. Open it using [Power BI Desktop](https://powerbi.microsoft.com/desktop/).
 3. Use the filters and slicers to explore data dynamically.
 
-## 📈 Screenshots
-
-_Add screenshots of your dashboard pages here for better visualization (optional)._
-
 ## 🧠 Insights Gained
 
 - Identified top-performing regions based on revenue.
