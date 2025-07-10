@@ -41,8 +41,4 @@ This Power BI report provides a comprehensive overview of key banking performanc
 - Tracked growth of product adoption across quarters.
 - Uncovered customer segments with high cross-sell potential.
 
-## 🤝 Contributing
-
-If you'd like to enhance the dashboard or add new data, feel free to fork this repo and raise a pull request!
-
 ---
