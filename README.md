@@ -45,8 +45,4 @@ This Power BI report provides a comprehensive overview of key banking performanc
 
 If you'd like to enhance the dashboard or add new data, feel free to fork this repo and raise a pull request!
 
-## 📄 License
-
-This project is open-source under the MIT License.
-
 ---
